@@ -285,27 +285,27 @@ header .row .col:nth-child(2){
 }
 .logo-marks .row .col:nth-child(1){
     flex-basis: 18%;
-    background-image: url('/assets/img/svg/astra.svg');
+    background-image: url('../img/svg/astra.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
 .logo-marks .row .col:nth-child(2){
     flex-basis: 15%;
     height: 2rem;
-    background-image: url('/assets/img/svg/sinovac.svg');
+    background-image: url('../img/svg/sinovac.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
 .logo-marks .row .col:nth-child(3){
     flex-basis: 15%;
-    background-image: url('/assets/img/svg/pfizer.svg');
+    background-image: url('../img/svg/pfizer.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
 .logo-marks .row .col:nth-child(4){
     flex-basis: 15%;
     margin-top: 1rem;
-    background-image: url('/assets/img/svg/moderna.svg');
+    background-image: url('../img/svg/moderna.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -501,7 +501,7 @@ header .row .col:nth-child(2){
 }
 .preparation .col:nth-child(1){
     max-height: 46rem;
-    background-image: url('/assets/img/woman.png');
+    background-image: url('../img/woman.png');
     background-size: 55rem auto;
     background-position: 60% 100%;
     background-repeat: no-repeat;
@@ -746,7 +746,7 @@ details[open] {
 .contact .row .col:nth-child(2){
     max-height: 49rem;
     margin-top: -10rem;
-    background-image: url('/assets/img/nurseman0.png');
+    background-image: url('../img/nurseman0.png');
     background-size: 50rem auto;
     background-position: 50% 100%;
     background-repeat: no-repeat;
